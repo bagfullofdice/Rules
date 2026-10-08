@@ -9,10 +9,10 @@ Ancestry does not modify ability scores. Do not apply ancestry-based bonuses or 
 
 ## Ancestries Available for Characters
 Human - Anuirean, Brecht, Khinasi, Rjurik, Vos
-Dwarf
-Elf
-Half-elf
-Halfling
+Dwarf,
+Elf,
+Half-elf,
+Halfling,
 Stygian - With Referee approval
 ### Ancestry Traits and Benefits
 
