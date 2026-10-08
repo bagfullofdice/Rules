@@ -26,6 +26,7 @@ Sygian - With Referee approval
 | Half-elf | +1 Dex, -1 Con                 | Resist Sleep/Charm, Resist Disease, Twilight Vision                                                                                                                                      |
 | Halfing  | +1 Dex, +1 Wis, -2 Str         | Halfling Saving Throw Bonus, Missile Attack Bonus, Sense Thin Barriers, Shadow Detection, Shadow Walk                                                                                    |
 | Stygian  |                                |                                                                                                                                                                                          |
+
 ## Classes Available for Characters
 
 | Class                                       | Availability                                                 | Requirements for 5% XP Bonus |
@@ -45,6 +46,7 @@ Sygian - With Referee approval
 | Paladin                                     | Anuirean and Khinasi                                         | Str & Con 13+                |
 | Ranger                                      | Human                                                        | Str 13+                      |
 | Thief                                       | Human, Dwarf (8), Elf (12), Half-elf (12), Halfling (U)      | Dex 13                       |
+
 \* are uncommon in Cerilia and may require specific narrative justification, training, patronage, bloodline derivation, or campaign approval
 ## Dual Classing
 
@@ -238,6 +240,7 @@ These benefits represent the resources, training, household support, inheritance
 |  18 | Bracers of Defense                 |
 |  19 | Boots of Speed or Levitation       |
 |  20 | Roll twice and choose one          |
+
 ## Bloodlines and Regency
 Divine inheritance, blood abilities, regency, and power to rule
 In Cerilia, kings do not rule merely because they possess armies or wealth. They rule because divine blood flows through their veins.
@@ -256,6 +259,7 @@ Not all bloodlines possess equal power. Some are faint traces of ancient divinit
 | 26-65 | Minor              | A noticeable divine inheritance capable of ranting blood abilities and political legitimacy.   | 5d6        |
 | 66-95 | Major              | Strong divine blood associated with powerful noble houses, temple dynasties, and great rulers. | 8d6        |
 | 96-00 | Great              | Rare and mighty bloodlines possessing tremendous influence and supernatural power.             | 8d8        |
+
 ## Bloodline Derivations
 Every bloodline descends from one of the gods who perished at Deismaar. This divine ancestry is called a derivation
 ### Anduiras
@@ -282,6 +286,7 @@ Bloodlines of magic, knowledge, moonlight, mystery, and arcane mastery. Frequent
 | 71-80 | Masela     |
 | 81-90 | Vorynn     |
 | 91-00 | Azrai      |
+
 ## Blood Abilities
 The table below determines the number and power of blood abilities. The strength categories are cumulative; a character with a bloodline strength of 24 rolls d100 for the 0-10 category, the 11-19 category, and the 20-28 category
 If a character's bloodline increases in strength, he is entitled to check for a new blood ability if he crosses into a new category. If a character's bloodline drops to a lower category, he loses abilities.
@@ -317,6 +322,7 @@ If a character's bloodline increases in strength, he is entitled to check for a 
 |                    | 71-00 | Great              |
 | **80+**            | 01-50 | Enhanced to Great* |
 |                    | 51-00 | Great              |
+
 \*-This result improves one of the character's existing abilities by one level. Thus, the Enhanced to Major result improves a minor ability to a major one; the Enhanced to Great result improves a major ability to a great one. if the character has no abilities that can be enhanced in this manner, this result grants a new blood ability at the level noted.
 
 ## Blood Abilities
@@ -1687,6 +1693,7 @@ A powerful unblooded ruler may command armies and wealth, but blooded dynasties 
 | Temple Regent | Temple holdings and religious authority     |
 | Guild Regent  | Guild holdings, trade routes, and commerce  |
 | Source Regent | Magical sources, ley lines, and realm magic |
+
 ## Realm Magic
 The greatest blooded wizards and priests can cast realm spells - powerful magic affecting entire provinces, armies, weather patterns, harvests, and kingdoms.
 Realm magic is far beyond ordinary adventuring spells and requires:
@@ -1813,6 +1820,7 @@ Many religions maintain military or monastic orders dedicated to protecting the 
 | Monastic Orders      | Scholarship, preservation, and discipline |
 | Missionary Orders    | Spreading faith and influence             |
 | Inquisitional Orders | Hunting heresy and dangerous magic        |
+
 ### Druids and the Old Ways
 Druids follow ancient natural traditions tied to Erik and older beliefs that predate many civilized kingdoms. They protect sacred groves, ancient forests, natural balance, beasts and wilderness, and old traditions.
 ## Religion and Regents
@@ -1838,6 +1846,7 @@ When the outcome of an action is uncertain and failure matters, the Referee may 
 | Untrained      | 0 points | -1 modifier                       |
 | Trained        | 1 point  | +1 to the effective ability score |
 | Expert         | 2 points | +2 to the effective ability score |
+
 The effective ability score after modifiers cannot exceed 18 unless the Referee specifically allows it.
 ### Starting Skills
 At 1st level, each character receives 3 Skill points. These points may be spent to become Trained in available skills. 1st-level characters cannot be Experts in any one skill.
@@ -1854,6 +1863,7 @@ Characters gain 1 additional Skill point every 4 levels.
 | 12    | +1                        |
 | 16    | +1                        |
 | 20    | +1                        |
+
 ## Difficulty Modifiers
 
 | Difficulty | Modifier    |
@@ -1899,6 +1909,7 @@ If a skill overlaps with a class ability, the class ability takes precedence. Sk
 | **Thaumatology** | INT | Understanding magical theory, spell traditions, magical creatures, enchantments, sources, ley lines, magical phenomena, and arcane terminology. This skill does not grant spellcasting, spell identification, or automatic knowledge of magical effects. |
 | **Theology** | INT or WIS | Knowing religious doctrine, rituals, holy days, sacred symbols, temple customs, priestly hierarchy, religious history, and recognized omens. Clerics and similar classes may possess additional knowledge through their class. |
 | **Trade** | INT or CHA | Understanding commerce, guild affairs, markets, trade routes, merchant networks, tariffs, supply and demand, and large-scale commercial activity. |                                                                                 |
+
 # Lockpicking
 
 Locks and lockpicks are rated from **Type I through Type VI**. Higher-quality lockpicks are more effective against difficult locks.
