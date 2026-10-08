@@ -34,7 +34,7 @@ Halfling,
 
 | Class                                       | Availability                                                 | Requirements for 5% XP Bonus |
 | ------------------------------------------- | ------------------------------------------------------------ | ---------------------------- |
-| Assassin*                                   | Rare; Human (Sygian) Only                                    | Dex, Str, Int 13+            |
+| Assassin*                                   | Rare; Human & (Stygian) Only                                    | Dex, Str, Int 13+            |
 | Barbarian                                   | Vos and Rjurik only                                          | Str & Con 13+                |
 | Bard                                        | Human, Half-elf (U), Elf (9)                                 | Dex, Cha, Int 13+            |
 | Chivalric Knight                            | Anuirean                                                     | Cha & Str 13+                |
