@@ -1,0 +1,38 @@
+site_name: 'Swords & Wizardry: Birthright'
+site_description: Campaign house rules and player reference
+repo_url: https://github.com/bagfullofdice/Rules
+edit_uri: edit/main/docs/
+theme:
+  name: material
+  font: false
+  palette:
+    - scheme: default
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+nav:
+  - Campaign Rules: index.md
+plugins:
+  - search
+markdown_extensions:
+  - tables
+  - fenced_code
+  - admonition
+  - toc:
+      permalink: true
+      toc_depth: 3
+extra_css:
+  - stylesheets/rules.css
