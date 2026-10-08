@@ -3,7 +3,9 @@
 ## Character Creation
 Use this section to create adventuring characters for the Swords & Wizardry: Birthright Campaign. Some characters may also begin as blooded scions or regents, tying them directly to bloodline inheritance, domain play, and the politics of Cerilia
 ## Ability Score Generation
-Players roll 4d6 and keep the highest 3 results. Scores may be assigned as the player wishes.
+Roll **2d6+6 six times** to generate your ability scores. Assign the six results to Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma as you wish.
+
+Ancestry does not modify ability scores. Do not apply ancestry-based bonuses or penalties; all other ancestry traits and benefits remain in effect.
 
 ## Ancestries Available for Characters
 Human - Anuirean, Brecht, Khinasi, Rjurik, Vos
@@ -12,20 +14,20 @@ Elf
 Half-elf
 Halfling
 Sygian - With Referee approval
-### Ability Score Adjustments and Racial Benefits
+### Ancestry Traits and Benefits
 
-| Race     | Ability Adjustments            | Racial Benefits                                                                                                                                                                          |
-| -------- | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Anuirean | +1 Wis, -1 Dex                 |                                                                                                                                                                                          |
-| Brecht   | +1 Dex, -1 Wis                 |                                                                                                                                                                                          |
-| Khinasi  | +1 Int, -1 Con                 |                                                                                                                                                                                          |
-| Rjurik   | +1 Con, -1 Cha                 |                                                                                                                                                                                          |
-| Vos      | +1 Str, -1 Int                 |                                                                                                                                                                                          |
-| Dwarf    | +2 Con, -2 Dex                 | Better Defense, Darkvision, Dense Body, Dwarf Saving Throw Bonus, Dwarven Craftsmanship, Dwarven Limitations, Encumbrance Strength, Hated Enemies, Resistance Magic/Poison, Stonecunning |
-| Elf      | +1 Dex, +1 Int, -1 Con, -1 Str | Immunity to Disease, Natural Terrain Movement, No Sleep, Pass Without Trace, Resist Sleep/Charm, Twilight Vision                                                                         |
-| Half-elf | +1 Dex, -1 Con                 | Resist Sleep/Charm, Resist Disease, Twilight Vision                                                                                                                                      |
-| Halfing  | +1 Dex, +1 Wis, -2 Str         | Halfling Saving Throw Bonus, Missile Attack Bonus, Sense Thin Barriers, Shadow Detection, Shadow Walk                                                                                    |
-| Stygian  |                                |                                                                                                                                                                                          |
+| Ancestry | Traits and Benefits |
+| --- | --- |
+| Anuirean | — |
+| Brecht | — |
+| Khinasi | — |
+| Rjurik | — |
+| Vos | — |
+| Dwarf | Better Defense, Darkvision, Dense Body, Dwarf Saving Throw Bonus, Dwarven Craftsmanship, Dwarven Limitations, Encumbrance Strength, Hated Enemies, Resistance Magic/Poison, Stonecunning |
+| Elf | Immunity to Disease, Natural Terrain Movement, No Sleep, Pass Without Trace, Resist Sleep/Charm, Twilight Vision |
+| Half-elf | Resist Sleep/Charm, Resist Disease, Twilight Vision |
+| Halfing | Halfling Saving Throw Bonus, Missile Attack Bonus, Sense Thin Barriers, Shadow Detection, Shadow Walk |
+| Stygian | — |
 
 ## Classes Available for Characters
 
