@@ -28,7 +28,7 @@ Halfling,
 | Elf | Immunity to Disease, Natural Terrain Movement, No Sleep, Pass Without Trace, Resist Sleep/Charm, Twilight Vision |
 | Half-elf | Resist Sleep/Charm, Resist Disease, Twilight Vision |
 | Halfing | Halfling Saving Throw Bonus, Missile Attack Bonus, Sense Thin Barriers, Shadow Detection, Shadow Walk |
-| Stygian | — |
+| Stygian | +2 creature reaction rolls, +2 Save vs fear and mind influencing spells, +5% thief/assassin hide in shadows, Darkvision 30 feet |
 
 ## Classes Available for Characters
 
