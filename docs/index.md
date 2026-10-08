@@ -38,17 +38,17 @@ Halfling,
 | Barbarian                                   | Vos and Rjurik only                                          | Str & Con 13+                |
 | Bard                                        | Human, Half-elf (U), Elf (9)                                 | Dex, Cha, Int 13+            |
 | Chivalric Knight                            | Anuirean                                                     | Cha & Str 13+                |
-| Priest (Cleric)                             | Human, Half-elf (9), Halfling (8)                            | Wis 13+                      |
+| Priest (Cleric)                             | Human, Half-elf (9), Halfling (8), Stygian (7)                           | Wis 13+                      |
 | Demon Hunter (Not regents or Domain rulers) | Human                                                        | Int & Cha 13+                |
 | Priest of Erik (Druid)                      | Rjurik & Anuirean                                            | Wis & Cha 13+                |
 | Dwarven Priest of Moradin                   | Dwarf (U)                                                    | Str, Wis, Con 13+            |
 | Elf-Blade                                   | Elf (U)                                                      | Str & Int 13+                |
-| Fighter                                     | Human (U), Dwarf (15), Elf (12), Half-elf (14), Halfling (7) | Str 13+                      |
+| Fighter                                     | Human (U), Dwarf (15), Elf (12), Half-elf (14), Halfling (7), Stygian (6) | Str 13+                      |
 | Magician (Illusionist; usually unblooded)   | Human                                                        | Int & Dex 13+                |
-| True Wizard (Magic-User)                    | Blooded Human, Half-elf (12), Elf (U)                        | Int 13+                      |
+| True Wizard (Magic-User)                    | Blooded Human, Half-elf (12), Elf (U), Stygian (8)                        | Int 13+                      |
 | Paladin                                     | Anuirean and Khinasi                                         | Str & Con 13+                |
 | Ranger                                      | Human                                                        | Str 13+                      |
-| Thief                                       | Human, Dwarf (8), Elf (12), Half-elf (12), Halfling (U)      | Dex 13                       |
+| Thief                                       | Human, Dwarf (8), Elf (12), Half-elf (12), Halfling (U), Stygian (6)      | Dex 13                       |
 
 \* are uncommon in Cerilia and may require specific narrative justification, training, patronage, bloodline derivation, or campaign approval
 ## Dual Classing
