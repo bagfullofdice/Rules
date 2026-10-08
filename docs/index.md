@@ -253,6 +253,8 @@ Those touched by this power became the first blooded scions. Their descendants i
 Bloodlines are among the most important forces shaping Cerilia. They determine legitimacy, rulership, inheritance, and supernatural power throughout the continent.
 ### What is a Scion?
 A scion is a blooded individual carrying divine essence inherited from one of the gods who died at Deismaar.
+### Roll for Scion
+Roll a % die and if the result is 25 or lower the character is of a bloodline. Follow the tables below to roll for strength, derivation, and abilities.
 ## Bloodline Strength
 Not all bloodlines possess equal power. Some are faint traces of ancient divinity, while others rival the legendary dynasties of Cerilia. Use the tables below to roll for your character's bloodline strength and derivation:
 
