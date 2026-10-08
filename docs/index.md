@@ -13,7 +13,7 @@ Dwarf
 Elf
 Half-elf
 Halfling
-Sygian - With Referee approval
+Stygian - With Referee approval
 ### Ancestry Traits and Benefits
 
 | Ancestry | Traits and Benefits |
