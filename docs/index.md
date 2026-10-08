@@ -85,7 +85,7 @@ The +1 HP at levels **2, 3, and 4** is a **character benefit**, not a class bene
 🔮 Magic-User types: **+1 HP/3 levels**
 
 ### Multiclass
-Use the **most favorable HP advancement rate** among the character's classes. HP gains do **not stack**.
+Use the **most favorable HP advancement rate** among the character's classes. HP gains do **not stack**. Much like the base rules of Swords & Wizardry Hit Points only increase once all classes have leveled. 
 
 Allowed combinations:
 • Dwarf — Fighter/Thief
